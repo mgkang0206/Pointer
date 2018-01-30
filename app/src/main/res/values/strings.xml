@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pointer2</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+</resources>
